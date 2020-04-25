@@ -138,7 +138,7 @@ describe('File Generation', function () {
 		<tag name="INTERVALS"/>
 	</tags>
 	<workout>
-		<Warmup Duration="600" PowerLow="0.55" PowerHigh="0.75"/>
+		<Warmup Duration="600" PowerLow="0.55" PowerHigh="0.75" Pace="0"/>
 		<SteadyState Duration="3600" Power="0.8">
 			<textevent timeoffset="0" message="1hr @ 80%"/>
 		</SteadyState>
